@@ -49,4 +49,4 @@
  
  
  ## Links
- - [Versão Web](https://preview.flutlab.io/felipe_battarra/pokedex/)
+ - [Versão Web]([https://preview.flutlab.io/felipe_battarra/pokedex/](https://preview.flutlab.io/felipe_battarra/pokedex/))
